@@ -5,9 +5,15 @@ It's my first project, so all feedback is useful.
 
 ***
 
-If the window doesn't open, try to run updateDB.py and wait for the script to download an updated Database. PyDex doesn't work if the database is missing or corrupted
+If the window doesn't open, try to run updateDB.py and wait for the script to download an update Database. PyDex doesn't work if the database is missing or corrupted.
+
+PyDex uses PokeAPI to get and update the database.
 
 ***
 
-
-PyDex uses PokeAPI to get and update the database
+## Possible future updates:
+- Play pokemon cry button
+- Buttons sound
+- Clock mode
+- Music player mode
+- Pomodoro mode
